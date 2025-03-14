@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Привет! Я [Евгений]
 
-<!--
-**pksas/pksas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 QA Autmated с опытом работы над веб-приложениями. Люблю экспериментировать с новыми технологиями.
 
-Here are some ideas to get you started:
+🔧 Инструменты и технологии: Java, Selenium, Appium, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои проекты
+
+- **[Проект 1](ссылка)**: Описание проекта
+- **[Проект 2](ссылка)**: Описание проекта
+
+## 📊 Моя статистика
+
+## 📈 My GitHub Stats
+
+[![Your GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/pksas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pksas&layout=compact)](https://github.com/pksas)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra)
+
+## 📫 Как связаться со мной
+
+- Email: [pksas82@gmail.com](mailto:pksas82@gmail.com)
+
+✨ Спасибо за визит! Надеюсь, вам понравилось!
