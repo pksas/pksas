@@ -1,4 +1,4 @@
-# 👋 Привет! Я [Евгений]
+# 👋 Привет! Я Евгений
 
 👨‍💻 QA Autmated с опытом работы над веб-приложениями. Люблю экспериментировать с новыми технологиями.
 
@@ -6,14 +6,12 @@
 
 ## 🚀 Мои проекты
 
-- **[Проект 1](ссылка)**: Описание проекта
-- **[Проект 2](ссылка)**: Описание проекта
-
-## 📊 Моя статистика
+- **[JavaAppiumAutomation](https://github.com/pksas/MyJavaAppiumAutomation)**: Автоматизация с использованием Appium
+- **[AIProject](https://github.com/pksas/aiProject)**: Проект созданный с использованием AI
 
 ## 📈 My GitHub Stats
 
-[![Your GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/pksas)
+[![Your GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=pksas&show_icons=true&theme=dark)](https://github.com/pksas)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pksas&layout=compact)](https://github.com/pksas)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra)
 
